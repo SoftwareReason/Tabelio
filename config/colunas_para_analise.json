@@ -1,0 +1,30 @@
+{
+    "y":["Status da entrevista:","Sabe informar o município de nascimento?","Qual é o gênero ou sexo?"],
+    
+    "x_y":[
+            {"y":"Sabe informar o município de nascimento?","x":"Qual é o gênero ou sexo?"},
+            {"y":"Qual é o grau de escolaridade (Completo)?","x":"Qual é o gênero ou sexo?"}
+          ],
+
+    "x_y_z":[
+              {
+                "y":"Sabe ler e escrever?",
+                "x":"Qual é o gênero ou sexo?",
+                "z":
+                {
+                    "Em qual UF você nasceu?":"BA",
+                    "Status da entrevista:":"Entrevista realizada"
+                }
+              },
+              {
+                "y":"Qual é o grau de escolaridade (Completo)?",
+                "x":"Qual é o gênero ou sexo?",
+                "z":
+                {
+                    "Em qual UF você nasceu?":"MA",
+                    "Status da entrevista:":"Entrevista realizada"
+                }
+              }
+            ]
+}
+
