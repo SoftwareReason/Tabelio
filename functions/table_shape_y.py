@@ -1,7 +1,3 @@
-# table_shape_x.py
-import pandas as pd
-
-
 # table_shape_y.py
 import pandas as pd
 
