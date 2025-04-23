@@ -10,7 +10,6 @@ def table_shape_y(df: pd.DataFrame, column: str) -> pd.DataFrame:
     Parâmetros:
     - df: DataFrame original.
     - column: Nome da coluna a ser analisada.
-    - modo_percentual: Define se o percentual será baseado no total da coluna (True) ou no total geral (False).
 
     Retorna:
     - DataFrame com valores únicos da coluna, suas contagens (ABS) e percentuais.
